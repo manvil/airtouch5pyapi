@@ -8,7 +8,7 @@ setuptools.setup(
     version="1.0.4",
     author="Sam Sinnamon",
     author_email="samsinnamon@hotmail.com",
-    description="An api allowing control of AC state (temperature, on/off, mode) of an Airtouch 4 controller locally over TCP",
+    description="An api allowing control of AC state (temperature, on/off, mode) of an Airtouch 5 controller locally over TCP",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/LonePurpleWolf/airtouch4pyapi",
